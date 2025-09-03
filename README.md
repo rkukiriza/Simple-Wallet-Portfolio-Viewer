@@ -1,6 +1,7 @@
 Simple Wallet Portfolio Viewer
 
 Overview
+
 The Simple Wallet Portfolio Viewer is a Python-based tool designed to visualize a cryptocurrency or financial asset portfolio through an intuitive pie chart. It aggregates asset holdings, calculates their total value, and displays the portfolio distribution, grouping smaller assets into an "Other" category for clarity. This project is ideal for users who want a quick and visually appealing way to analyze their portfolio allocation.
 Features
 
